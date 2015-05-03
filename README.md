@@ -1,2 +1,5 @@
 # react-native-material-ui
-Material design for react native app
+
+>React native by using material design UI.
+
+## Intro
