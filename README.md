@@ -4,4 +4,4 @@
 
 ## Intro
 
-React-Native-Material-UI is a set of React Native components that implement Google's Material Design specification.
+React-Native-Material-UI is a set of [React Native](http://facebook.github.io/react-native/) components that implement [Google's Material Design specification](https://www.google.com/design/spec/material-design/introduction.html).
