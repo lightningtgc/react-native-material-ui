@@ -4,21 +4,16 @@
   "description": "react native material design ui kit",
   "author": "gctang <tangguichuan@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "babel": "5.4.3",
-    "es5-shim": "4.1.0"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lightning/react-native-material-ui.git"
+    "url": "https://github.com/lightningtgc/react-native-material-ui.git"
   },
   "devDependencies": {
     "babel": "^5.4.3",
+    "es5-shim": "4.1.0",
     "babelify": "6.1.1",
-    "browserify": "9.0.7",
     "del": "1.1.1",
     "gulp": "^3.8.11",
-    "node-libs-browser": "^0.5.0",
     "react": "^0.13.3",
     "webpack": "^1.9.7"
   }
